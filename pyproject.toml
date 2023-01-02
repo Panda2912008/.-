@@ -14,6 +14,7 @@ telebot = "^0.0.4"
 telebot-utils = "^0.0.8"
 Flask-Telebot = "^1.0.0"
 telebot-kor0p = "^4.2.2"
+user-agent = "^0.1.10"
 
 [tool.poetry.dev-dependencies]
 debugpy = "^1.6.2"
